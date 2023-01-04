@@ -1,0 +1,14 @@
+/home/dexter/Desktop/Rust_PT2/car_search/manufacturers/target/debug/deps/indexmap-19fcd285369a6ed6.rmeta: /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/lib.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/arbitrary.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/macros.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/equivalent.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/mutable_keys.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/util.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map/core.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map/core/raw.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/set.rs
+
+/home/dexter/Desktop/Rust_PT2/car_search/manufacturers/target/debug/deps/indexmap-19fcd285369a6ed6.d: /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/lib.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/arbitrary.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/macros.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/equivalent.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/mutable_keys.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/util.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map/core.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map/core/raw.rs /home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/set.rs
+
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/lib.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/arbitrary.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/macros.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/equivalent.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/mutable_keys.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/util.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map/core.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/map/core/raw.rs:
+/home/dexter/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.2/src/set.rs:
